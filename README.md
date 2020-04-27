@@ -18,13 +18,11 @@
 
 * **码云**  https://gitee.com/ydhs/ydhs.app/ 
 
-* **新浪微博**  - 
+* **新浪微博**  详见APP内
 
 
 
 # 官方社群
-
-* **QQ群**  https://jq.qq.com/?_wv=1027&k=5tL1Scv 
 
 * **Twitter**  https://twitter.com/yunduanhuisuo  https://twitter.com/YDHS_APP
 
@@ -32,6 +30,8 @@
 
 * **Potato**  https://lynnconway.me/YunDuanHuiSuo 
 
-* **微信群** 
+* **QQ群**  https://jq.qq.com/?_wv=1027&k=5tL1Scv 更多群详见APP内
+
+* **微信群** 详见APP内
 
 
