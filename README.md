@@ -1,6 +1,6 @@
 # 云端会所APP
 
-> ## [广告合作](https://t.me/yunduanhuisuo)  [https://t.me/yunduanhuisuo](https://t.me/yunduanhuisuo)
+* [广告合作](https://t.me/yunduanhuisuo)  [https://t.me/yunduanhuisuo](https://t.me/yunduanhuisuo)
 
 # 官网
 
