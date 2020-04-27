@@ -12,9 +12,9 @@
 
 # 回家地址
 
-* **GitHub**  https://github.com/ydhs100/ydhs.app 
+* **GitHub**  https://github.com/ydhs100/ydhs.app  
 
-* **Twitter**  https://twitter.com/yunduanhuisuo
+* **Twitter**  https://twitter.com/yunduanhuisuo   https://twitter.com/YDHS_APP
 
 * **码云**  https://github.com/ydhs100/ydhs.app 
 
@@ -26,7 +26,7 @@
 
 * **QQ群**  https://jq.qq.com/?_wv=1027&k=5tL1Scv 
 
-* **Twitter**  https://twitter.com/yunduanhuisuo
+* **Twitter**  https://twitter.com/yunduanhuisuo  https://twitter.com/YDHS_APP
 
 * **Telegram**  https://t.me/GCJLB88 
 
