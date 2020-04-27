@@ -8,8 +8,7 @@
 
 # 下载地址
 
-
-<a href="https://github.com/hankewins" target="_blank"><img src="/and_download.png"></img></a>
+ [![云端会所APP安卓apk下载](/and_download.png "云端会所APP安卓apk下载")](http://YunDuanHuiSuo.com) [![云端会所APPiOS下载](/ios_download.png "云端会所APPiOS下载")](http://YunDuanHuiSuo.com) 
 
 # 回家地址
 
